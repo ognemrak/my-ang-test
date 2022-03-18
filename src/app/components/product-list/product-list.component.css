@@ -1,0 +1,14 @@
+:host {
+    display: block;
+    padding: 1em;
+}
+
+.button-holder {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+.button-holder button {
+    margin: .5em;
+}
